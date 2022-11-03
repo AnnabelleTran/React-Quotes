@@ -1,0 +1,13 @@
+.box{
+  text-align: center;
+  margin: 2vw 25vw;
+  background-color: darkolivegreen;
+  padding: 1vw;
+  border-radius: 1vw;
+  color: white;
+  font-family: sans-serif ;
+}
+
+.submitbutton{
+  margin-left: .25vw;
+}
